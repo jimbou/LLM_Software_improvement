@@ -1,0 +1,40 @@
+### Parameters and Their Descriptions:
+
+1. **level** (Default: `6`)
+
+   - **Description**: Sets the compression level, determining the trade-off between compression speed and compression efficiency.
+   - **Range**: Integer values from **1** to **9**.
+   - **Details**:
+     - `1`: Fastest compression speed, lowest compression ratio.
+     - `9`: Slowest compression speed, highest compression ratio.
+     - `6`: A balanced default level offering good compression speed and ratio.
+
+2. **wbits** (Default: `28`)
+
+   - **Description**: Specifies the window size used for compression and decompression.
+   - **Range**: Integer values from **25** to **31**.
+   - **Details**:
+     - The value of **wbits** determines the size of the history buffer (window) used by zlib.
+     - Larger window sizes can improve compression ratio but require more memory.
+     - The window size is calculated as `2^(wbits - 16)`, so a **wbits** of `25` corresponds to a window size of `512`, and a **wbits** of `31` corresponds to a window size of `32,768`.
+
+3. **memLevel** (Default: `5`)
+
+   - **Description**: Specifies how much memory should be allocated for internal compression state.
+   - **Range**: Integer values from **1** to **9**.
+   - **Details**:
+     - `1`: Minimum memory usage, potentially slower compression.
+     - `9`: Maximum memory usage, potentially faster compression.
+     - `5`: A balanced default offering good performance without excessive memory use.
+
+4. **strategy** (Default: `3`)
+
+   - **Description**: Adjusts the compression algorithm's strategy, which can be tuned for specific types of data.
+   - **Range**: Integer values from **0** to **4**.
+   - **Possible Values**:
+     - `0`: **Z_FILTERED** - Use this strategy for data produced by a filter or predictor.
+     - `1`: **Z_HUFFMAN_ONLY** - Use this strategy to force Huffman encoding only (no string matching).
+     - `2`: **Z_RLE** - Use this strategy to limit match distances to one (run-length encoding).
+     - `3`: **Z_FIXED** - Use this strategy to prevent the use of dynamic Huffman codes.
+     - `4`: **Z_DEFAULT_STRATEGY** - Use this strategy for normal data (default).
+

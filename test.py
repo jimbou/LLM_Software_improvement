@@ -58,7 +58,7 @@ if __name__ == '__main__':
         #run the benchmark with the source code
         
         for model in models:
-            for i in range(1, 2):  
+            for i in range(1, 11):  
                 
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
@@ -95,7 +95,7 @@ if __name__ == '__main__':
         #run the benchmark with the params
         
         for model in models:
-            for i in range(1, 2):   
+            for i in range(1, 11):   
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
                 model_simple = get_model(model, 0.7, Path(log_dir_simple))
