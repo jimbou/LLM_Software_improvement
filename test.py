@@ -30,7 +30,9 @@ def run_simple_params(benchmark, datetime_string, model_name, temperature, run, 
 
 if __name__ == '__main__':
     #get as argument the benchmark to run
-    models =[ "gpt-4o-mini-2024-07-18", "meta-llama/Meta-Llama-3.1-70B-Instruct",  "qwen2.5-7b-instruct",  "gpt-3.5-turbo-0125" ]
+    # models =[ "gpt-4o-mini-2024-07-18", "meta-llama/Meta-Llama-3.1-70B-Instruct",  "qwen2.5-7b-instruct",  "gpt-3.5-turbo-0125" ]
+    models =[  "qwen2.5-72b-instruct" ]
+
     
 
         # Get current datetime
@@ -58,7 +60,7 @@ if __name__ == '__main__':
         #run the benchmark with the source code
         
         for model in models:
-            for i in range(1, 11):  
+            for i in range(1, 6):  
                 
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
@@ -95,7 +97,7 @@ if __name__ == '__main__':
         #run the benchmark with the params
         
         for model in models:
-            for i in range(1, 11):   
+            for i in range(1, 6):   
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
                 model_simple = get_model(model, 0.7, Path(log_dir_simple))

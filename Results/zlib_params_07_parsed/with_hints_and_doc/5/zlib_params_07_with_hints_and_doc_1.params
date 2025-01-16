@@ -1,0 +1,4 @@
+level := 5
+wbits := '15'
+memLevel := 7
+strategy := 0

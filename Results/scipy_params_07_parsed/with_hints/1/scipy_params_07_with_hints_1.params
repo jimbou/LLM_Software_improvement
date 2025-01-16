@@ -1,0 +1,5 @@
+method := 'CG'
+jac := 'None'  
+tol := 0.001  
+disp := 'False'  
+maxiter := 200

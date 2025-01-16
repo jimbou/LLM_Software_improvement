@@ -1,0 +1,5 @@
+method := 'BFGS'  
+jac := 'True'       
+tol := 0.001      
+disp := 'False'     
+maxiter := 500

@@ -1,0 +1,5 @@
+method := 'L-BFGS-B'
+jac := '3-point'
+tol := 0.001
+disp := 'False'
+maxiter := 500

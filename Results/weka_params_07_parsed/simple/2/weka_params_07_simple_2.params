@@ -1,0 +1,9 @@
+P := 80
+I := 50
+K := 0.1
+M := 1
+V := 0.01
+N := 0.01
+U := 'False'
+B := 'False'
+num-decimal-places := 1
