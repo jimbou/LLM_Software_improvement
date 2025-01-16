@@ -3,7 +3,6 @@ import re
 # This is the final step after the final post condition has been generated. This is the prompt template that will be filled in with the problem description, the program,
 # and the final output hints (postcondition). It instructs the model to determine whether the program
 # satisfies the description and output specification, and asks it to return either "True" or "False".
-
 simple_source_template = """
 Given the program below, optimize its runtime performance while maintaining functionality. 
 
@@ -87,6 +86,10 @@ Given the parameter configuration below, optimize it for runtime efficiency.
 ### Parameters:
 {parameters}
 Give us the optimized parameters for the best runtime performance.
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 
 """
 
@@ -100,7 +103,10 @@ Optimize the configuration to improve runtime performance while maintaining func
 ### Documentation:
 {documentation}
 
-### Optimized Parameters:
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 """
 
 params_with_hints_template = """
@@ -112,7 +118,10 @@ The parameter configuration below may impact runtime performance. Improve the co
 ### Parameters:
 {parameters}
 
-### Optimized Parameters:
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 """
 
 params_with_hints_and_doc_template = """
@@ -128,7 +137,10 @@ Improve the configuration by:
 ### Documentation:
 {documentation}
 
-### Optimized Parameters:
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 """
 
 params_with_cot_template = """
@@ -140,7 +152,10 @@ The parameter configuration below may impact runtime performance. Optimize the c
 ### Parameters:
 {parameters}
 
-### Optimized Parameters:
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 """
 
 params_with_cot_and_doc_template = """
@@ -156,9 +171,11 @@ Optimize the configuration by following these steps:
 ### Documentation:
 {documentation}
 
-### Optimized Parameters:
+Reply in the format:
+'''plaintext
+The new parameters in the exact same format just with the new values
+'''
 """
-
 
 
 # Parses the model response to see if it responded True or False
