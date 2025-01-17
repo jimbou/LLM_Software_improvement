@@ -1,0 +1,5 @@
+method := 'CG'
+jac := '3-point'
+tol := 0.001
+disp := 'False'
+maxiter := 50

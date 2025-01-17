@@ -1,0 +1,6 @@
+search_steps := 300
+restarts := 5
+repeats := 3
+noise := 0.05
+static_noise := 'True'
+lowmemory := 'True'

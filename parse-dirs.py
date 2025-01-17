@@ -3,7 +3,7 @@ import re
 
 def parse_and_restructure(input_dir):
     # Define the target output directory
-    output_dir = f"Results/zlib_params_07_parsed"
+    output_dir = f"Results/zlib_params_12_parsed"
     print("hello")
     for subdir in os.listdir(input_dir):
         subdir_path = os.path.join(input_dir, subdir)
@@ -35,7 +35,7 @@ def parse_and_restructure(input_dir):
                             os.makedirs(output_subdir_path, exist_ok=True)
                             print(f"Writing to {output_subdir_path}")
                             # Write the cleaned code block to a new file with the specified naming convention
-                            output_file_name = f"zlib_params_07_{subdir}_{numbered_dir}.params"
+                            output_file_name = f"zlib_params__{subdir}_{numbered_dir}.params"
                             output_file = os.path.join(output_subdir_path, output_file_name)
                             with open(output_file, "w") as output:
                                 output.write(cleaned_code + "\n")

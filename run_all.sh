@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Run all the scripts in the correct order
-# python3 test.py --benchmark lpg_params
-# python3 test.py --benchmark minisat_hack_params
+python3 test.py --benchmark lpg_params
+python3 test.py --benchmark minisat_hack_params
 # python3 test.py --benchmark minisat_hack_source
 python3 test.py --benchmark minisat_params
 # python3 test.py --benchmark minisat_source

@@ -125,6 +125,7 @@ def build_command(params, cmd):
 
 def measure_execution(directory_path, file_path, run_directory, compile_command, execute_command, test_command, output_json="results.json"):
     results = {}
+    erroneous_files = []
 
     # Ensure the directory exists
     if not os.path.isdir(directory_path):
@@ -192,8 +193,11 @@ def measure_execution(directory_path, file_path, run_directory, compile_command,
                         print(f"Execution time for {version_file} on run {i + 1} is more than 1 second.")
                         
                         total_time.append(end_time - start_time)
+                    else:
+                        erroneous_files.append(version_file)
                 except subprocess.CalledProcessError as e:
                     print(f"Execution failed for {version_file} on run {i + 1}: {e}")
+                    erroneous_files.append(version_file)
                     break
             else:
                 # Calculate the median execution time
@@ -207,6 +211,15 @@ def measure_execution(directory_path, file_path, run_directory, compile_command,
         print(f"Results saved to {output_json}")
     except Exception as e:
         print(f"Failed to save results to {output_json}: {e}")
+
+    #save the erroneous files to a text file
+    try:
+        with open('erroneous_files.txt', 'w') as ef:
+            for file in erroneous_files:
+                ef.write(f"{file}\n")
+        print("Erroneous files saved to erroneous_files.txt")
+    except Exception as e:
+        print(f"Failed to save erroneous files to erroneous_files.txt: {e}")
 
 # Example usage
 if __name__ == "__main__":

@@ -33,13 +33,16 @@ if __name__ == '__main__':
     # models =[ "gpt-4o-mini-2024-07-18", "meta-llama/Meta-Llama-3.1-70B-Instruct",  "qwen2.5-7b-instruct",  "gpt-3.5-turbo-0125" ]
     models =[  "qwen2.5-72b-instruct" ]
 
-    
+    temp=1.2
 
         # Get current datetime
     current_datetime = datetime.now()
 
     # Convert to string
     datetime_string = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+
+    #remove all spaces from the datetime string
+    datetime_string = datetime_string.replace(" ", "_")
 
     argparser = argparse.ArgumentParser()
     argparser.add_argument("--benchmark", type=str, required=True)
@@ -64,32 +67,32 @@ if __name__ == '__main__':
                 
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
-                model_simple = get_model(model, 0.7, Path(log_dir_simple))
+                model_simple = get_model(model, temp, Path(log_dir_simple))
                 query.simple_source(model_simple, source)
 
                 log_dir_simple_with_doc = f"{benchmark}/{datetime_string}/{model}/simple_with_doc/{i}"
                 Path(log_dir_simple_with_doc).mkdir(parents=True, exist_ok=True)
-                model_simple_with_doc = get_model(model, 0.7, Path(log_dir_simple_with_doc))
+                model_simple_with_doc = get_model(model, temp, Path(log_dir_simple_with_doc))
                 query.simple_source_with_doc(model_simple_with_doc, source, documentation)   
 
                 log_dir_with_hints = f"{benchmark}/{datetime_string}/{model}/with_hints/{i}"
                 Path(log_dir_with_hints).mkdir(parents=True, exist_ok=True)
-                model_with_hints = get_model(model, 0.7, Path(log_dir_with_hints))
+                model_with_hints = get_model(model, temp, Path(log_dir_with_hints))
                 query.source_with_hints(model_with_hints, source)   
 
                 log_dir_with_hints_and_doc = f"{benchmark}/{datetime_string}/{model}/with_hints_and_doc/{i}"
                 Path(log_dir_with_hints_and_doc).mkdir(parents=True, exist_ok=True)
-                model_with_hints_and_doc = get_model(model, 0.7, Path(log_dir_with_hints_and_doc))
+                model_with_hints_and_doc = get_model(model, temp, Path(log_dir_with_hints_and_doc))
                 query.source_with_hints_and_doc(model_with_hints_and_doc, source, documentation)
 
                 log_dir_with_cot = f"{benchmark}/{datetime_string}/{model}/with_cot/{i}"
                 Path(log_dir_with_cot).mkdir(parents=True, exist_ok=True)
-                model_with_cot = get_model(model, 0.7, Path(log_dir_with_cot)) 
+                model_with_cot = get_model(model, temp, Path(log_dir_with_cot)) 
                 query.source_with_cot(model_with_cot, source)
 
                 log_dir_with_cot_and_doc = f"{benchmark}/{datetime_string}/{model}/with_cot_and_doc/{i}"
                 Path(log_dir_with_cot_and_doc).mkdir(parents=True, exist_ok=True)
-                model_with_cot_and_doc = get_model(model, 0.7, Path(log_dir_with_cot_and_doc))
+                model_with_cot_and_doc = get_model(model, temp, Path(log_dir_with_cot_and_doc))
                 query.source_with_cot_and_doc(model_with_cot_and_doc, source, documentation) 
 
 
@@ -100,32 +103,32 @@ if __name__ == '__main__':
             for i in range(1, 6):   
                 log_dir_simple = f"{benchmark}/{datetime_string}/{model}/simple/{i}"
                 Path(log_dir_simple).mkdir(parents=True, exist_ok=True)
-                model_simple = get_model(model, 0.7, Path(log_dir_simple))
+                model_simple = get_model(model, temp, Path(log_dir_simple))
                 query.simple_params(model_simple, source)
 
                 log_dir_simple_with_doc = f"{benchmark}/{datetime_string}/{model}/simple_with_doc/{i}"
                 Path(log_dir_simple_with_doc).mkdir(parents=True, exist_ok=True)
-                model_simple_with_doc = get_model(model, 0.7, Path(log_dir_simple_with_doc))
+                model_simple_with_doc = get_model(model, temp, Path(log_dir_simple_with_doc))
                 query.simple_params_with_doc(model_simple_with_doc, source, documentation)   
 
                 log_dir_with_hints = f"{benchmark}/{datetime_string}/{model}/with_hints/{i}"
                 Path(log_dir_with_hints).mkdir(parents=True, exist_ok=True)
-                model_with_hints = get_model(model, 0.7, Path(log_dir_with_hints))
+                model_with_hints = get_model(model, temp, Path(log_dir_with_hints))
                 query.params_with_hints(model_with_hints, source)   
 
                 log_dir_with_hints_and_doc = f"{benchmark}/{datetime_string}/{model}/with_hints_and_doc/{i}"
                 Path(log_dir_with_hints_and_doc).mkdir(parents=True, exist_ok=True)
-                model_with_hints_and_doc = get_model(model, 0.7, Path(log_dir_with_hints_and_doc))
+                model_with_hints_and_doc = get_model(model, temp, Path(log_dir_with_hints_and_doc))
                 query.params_with_hints_and_doc(model_with_hints_and_doc, source, documentation)
 
                 log_dir_with_cot = f"{benchmark}/{datetime_string}/{model}/with_cot/{i}"
                 Path(log_dir_with_cot).mkdir(parents=True, exist_ok=True)
-                model_with_cot = get_model(model, 0.7, Path(log_dir_with_cot)) 
+                model_with_cot = get_model(model, temp, Path(log_dir_with_cot)) 
                 query.params_with_cot(model_with_cot, source)
 
                 log_dir_with_cot_and_doc = f"{benchmark}/{datetime_string}/{model}/with_cot_and_doc/{i}"
                 Path(log_dir_with_cot_and_doc).mkdir(parents=True, exist_ok=True)
-                model_with_cot_and_doc = get_model(model, 0.7, Path(log_dir_with_cot_and_doc))
+                model_with_cot_and_doc = get_model(model, temp, Path(log_dir_with_cot_and_doc))
                 query.params_with_cot_and_doc(model_with_cot_and_doc, source, documentation) 
 
     else:
