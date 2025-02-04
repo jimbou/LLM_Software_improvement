@@ -1,14 +1,14 @@
 #!/bin/bash
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_minisat.json results_07_minisat.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_minisat.json results_12_minisat.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_minisat_hack.json results_07_minisat_hack.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_minisat_hack.json results_12_minisat_hack.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_sat4j.json results_07_sat4j.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_sat4j.json results_12_sat4j.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_scipy.json results_07_scipy.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_scipy.json results_12_scipy.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_weka.json results_07_weka.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_weka.json results_12_weka.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_zlib.json results_07_zlib.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_zlib.json results_12_zlib.json
 sleep 20
-./execute.sh /home/jim/LLm_Software_improvement/commands_07_lpg.json results_07_lpg.json
+./execute.sh /home/jim/LLm_Software_improvement/commands_12_lpg.json results_12_lpg.json

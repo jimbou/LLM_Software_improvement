@@ -1,0 +1,122 @@
+{
+    "lpg_params__simple_with_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__simple_with_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__simple_with_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__simple_with_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__simple_with_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -static_noise -lowmemory"
+    },
+    "lpg_params__simple_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 3 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__simple_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.1 -static_noise -lowmemory"
+    },
+    "lpg_params__simple_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.1 -static_noise -lowmemory"
+    },
+    "lpg_params__simple_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 3 -repeats 3 -noise 0.1 -static_noise -lowmemory"
+    },
+    "lpg_params__simple_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 3 -repeats 2 -noise 0.1 -static_noise -lowmemory"
+    },
+    "lpg_params__with_hints_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_hints_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_hints_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_hints_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_hints_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_hints_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_hints_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_hints_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_hints_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_hints_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 750 -restarts 5 -repeats 3 -noise 0.15 -lowmemory"
+    },
+    "lpg_params__with_cot_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 750 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params__with_cot_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params__with_cot_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    }
+}

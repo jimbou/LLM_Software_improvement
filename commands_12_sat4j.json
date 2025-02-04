@@ -1,0 +1,123 @@
+{
+    
+    "sat4j_params__simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PhaseCachingAutoEraseStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PhaseInLastLearnedClauseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RandsatPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params__with_cot_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSTPPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__with_cot_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params__with_cot_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.99 CONFLICTBOUNDINCFACTOR=1.5 SIMP=BASIC_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__with_cot_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__simple_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__simple_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=VSIDSPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__simple_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PhaseSavingPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__simple_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=VSIDSPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__simple_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PhaseSaving CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.94 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__with_hints_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=VSIDSPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params__with_hints_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=Glucose21Restarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=ECONOMIC_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__with_hints_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params__with_hints_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=FAST_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params__with_hints_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=Glucose21Restarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD2"
+    },
+    "sat4j_params__with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_hints_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_hints_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.90 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.95 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_hints_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=PhaseCachingAutoEraseStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params__with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    }
+}

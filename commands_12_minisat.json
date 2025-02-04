@@ -1,0 +1,123 @@
+{
+    
+    "minisat_params__simple_with_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.98 -cla-decay=0.998 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__simple_with_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__simple_with_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__simple_with_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__simple_with_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=2.0 -var-decay=0.95 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_cot_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=2.0 -var-decay=0.9 -cla-decay=0.998 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.4 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_cot_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.998 -rnd-freq=0.1 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_cot_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.1 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_cot_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=2.1 -var-decay=0.97 -cla-decay=0.998 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=120 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1200 -cl-lim=25 -grow=0"
+    },
+    "minisat_params__with_cot_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.4 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__simple_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__simple_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__simple_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__simple_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.2 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__simple_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.15 -rinc=1.5 -var-decay=0.97 -cla-decay=0.998 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.4 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_hints_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.2 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_hints_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_hints_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params__with_hints_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=2.0 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_cot_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=2.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=150 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1200 -cl-lim=25 -grow=0"
+    },
+    "minisat_params__with_cot_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=150 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_cot_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=2.0 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params__with_cot_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.5 -rinc=1.5 -var-decay=0.9 -cla-decay=0.95 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=500 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=5000 -cl-lim=50 -grow=0"
+    },
+    "minisat_params__with_cot_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=150 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    }
+}
