@@ -1,0 +1,92 @@
+{
+  "sat4j_params_07_simple_with_doc_1": {
+    "time": 6950
+  },
+  "sat4j_params_07_simple_with_doc_3": {
+    "time": 6928
+  },
+  "sat4j_params_07_simple_with_doc_4": {
+    "time": 6979
+  },
+  "sat4j_params_07_simple_with_doc_2": {
+    "time": 6987
+  },
+  "sat4j_params_07_simple_with_doc_5": {
+    "time": 6978
+  },
+  "sat4j_params_07_with_cot_1": {
+    "time": 6985
+  },
+  "sat4j_params_07_with_cot_3": {
+    "time": 6956
+  },
+  "sat4j_params_07_with_cot_4": {
+    "time": 6966
+  },
+  "sat4j_params_07_with_cot_2": {
+    "time": 6969
+  },
+  "sat4j_params_07_with_cot_5": {
+    "time": 6980
+  },
+  "sat4j_params_07_simple_1": {
+    "time": 6972
+  },
+  "sat4j_params_07_simple_3": {
+    "time": 6961
+  },
+  "sat4j_params_07_simple_4": {
+    "time": 6973
+  },
+  "sat4j_params_07_simple_2": {
+    "time": 6994
+  },
+  "sat4j_params_07_simple_5": {
+    "time": 6958
+  },
+  "sat4j_params_07_with_hints_1": {
+    "time": 6964
+  },
+  "sat4j_params_07_with_hints_3": {
+    "time": 6984
+  },
+  "sat4j_params_07_with_hints_4": {
+    "time": 7008
+  },
+  "sat4j_params_07_with_hints_2": {
+    "time": 6953
+  },
+  "sat4j_params_07_with_hints_5": {
+    "time": 6971
+  },
+  "sat4j_params_07_with_hints_and_doc_1": {
+    "time": 6948
+  },
+  "sat4j_params_07_with_hints_and_doc_3": {
+    "time": 6989
+  },
+  "sat4j_params_07_with_hints_and_doc_4": {
+    "time": 7031
+  },
+  "sat4j_params_07_with_hints_and_doc_2": {
+    "time": 6967
+  },
+  "sat4j_params_07_with_hints_and_doc_5": {
+    "time": 7011
+  },
+  "sat4j_params_07_with_cot_and_doc_1": {
+    "time": 6974
+  },
+  "sat4j_params_07_with_cot_and_doc_3": {
+    "time": 6963
+  },
+  "sat4j_params_07_with_cot_and_doc_4": {
+    "time": 6955
+  },
+  "sat4j_params_07_with_cot_and_doc_2": {
+    "time": 6982
+  },
+  "sat4j_params_07_with_cot_and_doc_5": {
+    "time": 6977
+  }
+}

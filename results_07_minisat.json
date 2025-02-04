@@ -1,0 +1,92 @@
+{
+  "minisat_params_07_simple_with_doc_1": {
+    "time": "timeout"
+  },
+  "minisat_params_07_simple_with_doc_3": {
+    "time": "timeout"
+  },
+  "minisat_params_07_simple_with_doc_4": {
+    "time": 11831
+  },
+  "minisat_params_07_simple_with_doc_2": {
+    "time": 11699
+  },
+  "minisat_params_07_simple_with_doc_5": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_cot_1": {
+    "time": 10557
+  },
+  "minisat_params_07_with_cot_3": {
+    "time": 54
+  },
+  "minisat_params_07_with_cot_4": {
+    "time": 9955
+  },
+  "minisat_params_07_with_cot_2": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_cot_5": {
+    "time": 54
+  },
+  "minisat_params_07_simple_1": {
+    "time": "timeout"
+  },
+  "minisat_params_07_simple_3": {
+    "time": "timeout"
+  },
+  "minisat_params_07_simple_4": {
+    "time": 19367
+  },
+  "minisat_params_07_simple_2": {
+    "time": "timeout"
+  },
+  "minisat_params_07_simple_5": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_1": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_3": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_4": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_2": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_5": {
+    "time": 3740
+  },
+  "minisat_params_07_with_hints_and_doc_1": {
+    "time": 2621
+  },
+  "minisat_params_07_with_hints_and_doc_3": {
+    "time": 4256
+  },
+  "minisat_params_07_with_hints_and_doc_4": {
+    "time": "timeout"
+  },
+  "minisat_params_07_with_hints_and_doc_2": {
+    "time": 3187
+  },
+  "minisat_params_07_with_hints_and_doc_5": {
+    "time": 2649
+  },
+  "minisat_params_07_with_cot_and_doc_1": {
+    "time": 6015
+  },
+  "minisat_params_07_with_cot_and_doc_3": {
+    "time": 2307
+  },
+  "minisat_params_07_with_cot_and_doc_4": {
+    "time": 3488
+  },
+  "minisat_params_07_with_cot_and_doc_2": {
+    "time": 52
+  },
+  "minisat_params_07_with_cot_and_doc_5": {
+    "time": 2390
+  }
+}

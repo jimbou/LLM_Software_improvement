@@ -1,0 +1,124 @@
+{
+   
+
+    "scipy_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.0005 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=True --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=2-point --tol=0.0001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=analytical --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=80"
+    },
+    "scipy_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=75"
+    },
+    "scipy_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=2-point --tol=0.001 --maxiter=100"
+    },
+    "scipy_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=150"
+    },
+    "scipy_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=2-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=150"
+    },
+    "scipy_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=True --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=2-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    }
+}

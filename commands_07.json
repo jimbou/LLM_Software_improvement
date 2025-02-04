@@ -1,0 +1,832 @@
+{
+    "lpg_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_cot_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_cot_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_cot_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_with_cot_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_with_cot_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_simple_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.05 -static_noise -lowmemory"
+    },
+    "lpg_params_07_simple_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 3 -repeats 2 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_simple_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_simple_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_simple_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_with_hints_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_with_hints_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 250 -restarts 3 -repeats 3 -noise 0.1"
+    },
+    "lpg_params_07_with_hints_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05"
+    },
+    "lpg_params_07_with_hints_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05"
+    },
+    "lpg_params_07_with_hints_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -static_noise -lowmemory"
+    },
+    "lpg_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -static_noise -lowmemory"
+    },
+    "lpg_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.1 -lowmemory"
+    },
+    "lpg_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -static_noise -lowmemory"
+    },
+    "lpg_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05"
+    },
+    "lpg_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -lowmemory"
+    },
+    "lpg_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.05 -static_noise -lowmemory"
+    },
+    "lpg_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/lpg_necessary/",
+        "command": "bash run_fixed.sh -search_steps 300 -restarts 5 -repeats 3 -noise 0.15 -static_noise -lowmemory"
+    },
+
+    "minisat_hack_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_hack_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_hack_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.3 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_hack_params_07_with_cot_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -no-rnd-init -gc-frac=0.3 -rinc=3.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.1 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=200 -pre -verb=0 -no-rcheck -no-asymm -elim -simp-gc-frac=0.6 -sub-lim=500 -cl-lim=50 -grow=1"
+    },
+    "minisat_hack_params_07_with_cot_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -no-rnd-init -gc-frac=0.3 -rinc=3.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=3 -ccmin-mode=3 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=50 -grow=1"
+    },
+    "minisat_hack_params_07_with_cot_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -no-rnd-init -gc-frac=0.25 -rinc=2.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=50 -grow=1"
+    },
+    "minisat_hack_params_07_with_cot_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -no-rnd-init -gc-frac=0.3 -rinc=1.5 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -no-rcheck -no-asymm -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=20 -grow=1"
+    },
+    "minisat_hack_params_07_with_cot_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -no-rnd-init -gc-frac=0.3 -rinc=2.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=3 -rfirst=200 -pre -verb=0 -no-rcheck -no-asymm -elim -simp-gc-frac=0.6 -sub-lim=1500 -cl-lim=30 -grow=1"
+    },
+    "minisat_hack_params_07_simple_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -lbd-cut=3.0 -lbd-cut-max=7.0 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.4 -grow=0"
+    },
+    "minisat_hack_params_07_simple_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.2 -rinc=2.0 -var-decay=0.75 -lbd-cut=5.0 -lbd-cut-max=10.0 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -grow=0"
+    },
+    "minisat_hack_params_07_simple_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -no-rnd-init -gc-frac=0.3 -rinc=2.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=30 -grow=0"
+    },
+    "minisat_hack_params_07_simple_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.1 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -lbd-cut=3.0 -lbd-cut-max=8.0 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.95 -lbd-cut=5.0 -lbd-cut-max=15.0 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.4 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.95 -lbd-cut=5.0 -lbd-cut-max=10.0 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -lbd-cut=3.0 -lbd-cut-max=10.0 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -no-elim -simp-gc-frac=0.3 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=500 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=5000 -cl-lim=50 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=1 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=30 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.3 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.6 -sub-lim=500 -cl-lim=15 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.2 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.2 -rinc=1.5 -var-decay=0.95 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0 "
+    },
+    "minisat_hack_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=1.0 LUBYFACTOR=256 -gc-frac=0.2 -rinc=2.5 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=150 -pre -verb=1 -elim -simp-gc-frac=0.7 -sub-lim=1500 -cl-lim=30 -grow=1"
+    },
+    "minisat_hack_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -gc-frac=0.3 -rinc=1.8 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0 -restarts MiniSATRestarts -rinc=1.8 -var-decay=0.9 -cla-decay=0.999 -rfirst=200 -no-pre"
+    },
+    "minisat_hack_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0  -rinc=2.0 -var-decay=0.97 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_hack_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_hack_necessary",
+        "command": "bash run_fixed.sh -luby=0.0  -gc-frac=0.2 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+
+    "minisat_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.3 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_cot_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -no-rnd-init -gc-frac=0.3 -rinc=3.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.1 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=200 -pre -verb=0 -no-rcheck -no-asymm -elim -simp-gc-frac=0.6 -sub-lim=500 -cl-lim=50 -grow=1"
+    },
+    "minisat_params_07_with_cot_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -no-rnd-init -gc-frac=0.3 -rinc=3.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=3 -ccmin-mode=3 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=50 -grow=1"
+    },
+    "minisat_params_07_with_cot_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -no-rnd-init -gc-frac=0.25 -rinc=2.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=50 -grow=1"
+    },
+    "minisat_params_07_with_cot_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -no-rnd-init -gc-frac=0.3 -rinc=1.5 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -no-rcheck -no-asymm -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=20 -grow=1"
+    },
+    "minisat_params_07_with_cot_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -no-rnd-init -gc-frac=0.3 -rinc=2.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=3 -rfirst=200 -pre -verb=0 -no-rcheck -no-asymm -elim -simp-gc-frac=0.6 -sub-lim=1500 -cl-lim=30 -grow=1"
+    },
+    "minisat_params_07_simple_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_simple_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_simple_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -no-rnd-init -gc-frac=0.3 -rinc=2.0 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=2000 -cl-lim=30 -grow=0"
+    },
+    "minisat_params_07_simple_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_simple_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.4 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_hints_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=5000 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_hints_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.97 -cla-decay=0.998 -rnd-freq=0.02 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=5000 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_hints_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.998 -rnd-freq=0.005 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=2 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_hints_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=500 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=5000 -cl-lim=50 -grow=0"
+    },
+    "minisat_params_07_with_hints_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.01 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=1 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.3 -sub-lim=500 -cl-lim=30 -grow=0"
+    },
+    "minisat_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.3 -rinc=1.5 -var-decay=0.9 -cla-decay=0.99 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=1 -ccmin-mode=1 -rfirst=50 -pre -verb=0 -elim -simp-gc-frac=0.6 -sub-lim=500 -cl-lim=15 -grow=0"
+    },
+    "minisat_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby -gc-frac=0.1 -rinc=1.5 -var-decay=0.9 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=500 -cl-lim=10 -grow=0"
+    },
+    "minisat_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.05 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.2 -rinc=1.5 -var-decay=0.95 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=50 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0 "
+    },
+    "minisat_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -luby LUBYFACTOR=256 -gc-frac=0.2 -rinc=2.5 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=150 -pre -verb=1 -elim -simp-gc-frac=0.7 -sub-lim=1500 -cl-lim=30 -grow=1"
+    },
+    "minisat_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -gc-frac=0.3 -rinc=1.8 -var-decay=0.95 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby  -rinc=1.8 -var-decay=0.9 -cla-decay=0.999 -rfirst=200 -no-pre"
+    },
+    "minisat_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby -restarts Glucose21Restarts -rinc=2.0 -var-decay=0.97 -cla-decay=0.999 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=100 -pre -verb=1 -elim -simp-gc-frac=0.6 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+    "minisat_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/LLm_Software_improvement/minisat_necessary/",
+        "command": "bash run_fixed.sh -no-luby  -gc-frac=0.2 -rinc=2.0 -var-decay=0.97 -cla-decay=0.995 -rnd-freq=0.0 -rnd-seed=91648253 -phase-saving=2 -ccmin-mode=2 -rfirst=200 -pre -verb=1 -elim -simp-gc-frac=0.5 -sub-lim=1000 -cl-lim=20 -grow=0"
+    },
+
+    "sat4j_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=500 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=200 PHASE=Results/sat4j_params_07_parsed/simple_with_doc/1 CLADECAY=0.995 INITCONFLICTBOUND=150 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.93 CONFLICTBOUNDINCFACTOR=2.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=Luby LUBYFACTOR=256 FIXEDPERIOD=200 PHASE=PolarityBasedPhaseSelection CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestart LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=VSIDSPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=0 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=200 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestart LUBYFACTOR=256 FIXEDPERIOD=200 PHASE=ChronoPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=2.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestart LUBYFACTOR=256 FIXEDPERIOD=200 PHASE=JeroslowWangPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=200 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD1"
+    },
+    "sat4j_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=128 FIXEDPERIOD=50 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=RNDPhaseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=128 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=ChronoPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=VSIDSPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=CHEAP_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=JeroslowWangPhaseSelection CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.98 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PolarityBasedPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=64 FIXEDPERIOD=50 PHASE=RandomPhaseSelectionStrategy CLADECAY=0.998 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.5 SIMP=RandomPhaseSelectionStrategy CLEANING=LBD3"
+    },
+    "sat4j_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=500 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RandomLiteralSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.96 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.97 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=N/A PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=1.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=1024 PHASE=PhaseInLastLearnedClauseSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=50 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=2.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=50 PHASE=PhaseCachingAutoEraseStrategy CLADECAY=0.9995 INITCONFLICTBOUND=50 VARDECAY=0.90 CONFLICTBOUNDINCFACTOR=1.8 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.90 CONFLICTBOUNDINCFACTOR=2.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD"
+    },
+    "sat4j_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=256 FIXEDPERIOD=100 PHASE=RSATLastLearnedClausesPhaseSelectionStrategy CLADECAY=0.995 INITCONFLICTBOUND=50 VARDECAY=0.95 CONFLICTBOUNDINCFACTOR=2.5 SIMP=SIMPLE_SIMPLIFICATION CLEANING=LBD2"
+    },
+    "sat4j_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/sat4j/necessary/",
+        "command": "bash run_fixed.sh RESTARTS=LubyRestarts LUBYFACTOR=1024 FIXEDPERIOD=100 PHASE=RandomLiteralSelectionStrategy CLADECAY=0.99 INITCONFLICTBOUND=100 VARDECAY=0.9 CONFLICTBOUNDINCFACTOR=2.0 SIMP=SIMPLE_SIMPLIFICATION CLEANING=ACTIVITY"
+    },
+
+    "scipy_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.0005 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=True --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=2-point --tol=0.0001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=analytical --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=80"
+    },
+    "scipy_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=75"
+    },
+    "scipy_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=2-point --tol=0.001 --maxiter=100"
+    },
+    "scipy_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=150"
+    },
+    "scipy_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=2-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=200"
+    },
+    "scipy_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=50"
+    },
+    "scipy_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=CG --jac=3-point --tol=0.001 --maxiter=150"
+    },
+    "scipy_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=L-BFGS-B --jac=True --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=2-point --tol=0.001 --maxiter=500"
+    },
+    "scipy_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/scipy/necessary/",
+        "command": "bash run_fixed.sh --method=BFGS --jac=3-point --tol=0.001 --maxiter=500"
+    },
+
+    "weka_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -B -num-decimal-places 2"
+    },
+    "weka_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0.1 -M 1 -V 0.01 -N 0.05 -U -B -num-decimal-places 3"
+    },
+    "weka_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh 0  -K 10 -M 1 -V 0.01 -N 1 -U -num-decimal-places 1"
+    },
+    "weka_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 5 -M 1 -V 0.01 -N 1 -U -B -num-decimal-places 2"
+    },
+    "weka_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh 0  -K 10 -M 1 -V 0.01 -N 1 -U -num-decimal-places 1"
+    },
+    "weka_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 1 -M 1 -V 0.01 -N 1 -U -B -num-decimal-places 1"
+    },
+    "weka_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 1 -V 0.01 -N 0 -num-decimal-places 1"
+    },
+    "weka_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 1 -V 0.01 -N 0 -num-decimal-places 1"
+    },
+    "weka_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0.5 -M 0.5 -V 0.01 -N 1 -B -num-decimal-places 1"
+    },
+    "weka_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0.1 -M 1 -V 0.01 -N 0.01 -num-decimal-places 1"
+    },
+    "weka_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0.1 -M 1 -V 0.01 -N 0 -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 1 -V 0.002 -N 0 -B -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 1 -M 1 -V 0.01 -N 0 -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0.1 -M 1 -V 0.005 -N 0.1 -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 1 -M 1 -V 0.01 -N 0 -B -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 1 -M 1 -V 0.01 -N 0 -B -num-decimal-places 1"
+    },
+    "weka_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 5 -M 2 -V 0.01 -N 5 -B -num-decimal-places 2"
+    },
+    "weka_params_07_with_hints_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 3 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_with_hints_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 0 -num-decimal-places 2"
+    },
+    "weka_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 10 -M 5 -V 0.01 -N 5 -B -num-decimal-places 2"
+    },
+    "weka_params_07_with_hints_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 2 -V 0.01 -N 5 -num-decimal-places 2"
+    },
+    "weka_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 10 -M 3 -V 0.01 -N 5 -B -num-decimal-places 1"
+    },
+    "weka_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 0 -M 5 -V 0.01 -N 0 -num-decimal-places 2"
+    },
+    "weka_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 10 -M 2 -V 0.01 -N 10 -num-decimal-places 2"
+    },
+    "weka_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 10 -M 5 -V 0.01 -N 5 -U -B -num-decimal-places 1"
+    },
+    "weka_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie_llm/examples/weka/necessary/",
+        "command": "bash run_fixed.sh   -K 10 -M 5 -V 0.01 -N 5 -B -num-decimal-places 2"
+    },
+
+    "zlib_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=27 memLevel=7 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=27 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=18 memLevel=6 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=4"
+    },
+    "zlib_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=14 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=15 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=14 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=14 memLevel=8 strategy=1"
+    },
+    "zlib_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=14 memLevel=4 strategy=1"
+    },
+    "zlib_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=13 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=14 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=15 memLevel=8 strategy=0"
+    },
+    "zlib_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=14 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=13 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=15 memLevel=8 strategy=0"
+    },
+    "zlib_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=14 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=15 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=15 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=7 wbits=28 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    }
+}

@@ -1,0 +1,112 @@
+{
+   
+
+    "zlib_params_07_simple_with_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=27 memLevel=7 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=27 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_simple_with_doc_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=18 memLevel=6 strategy=3"
+    },
+    "zlib_params_07_simple_with_doc_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=4"
+    },
+    "zlib_params_07_with_cot_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_with_cot_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=14 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_cot_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=15 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_cot_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=14 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_with_cot_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=14 memLevel=8 strategy=1"
+    },
+    "zlib_params_07_simple_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=14 memLevel=4 strategy=1"
+    },
+    "zlib_params_07_simple_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_simple_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=13 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_simple_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=12 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_simple_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=3 wbits=14 memLevel=5 strategy=1"
+    },
+    "zlib_params_07_with_hints_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=15 memLevel=8 strategy=0"
+    },
+    "zlib_params_07_with_hints_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=14 memLevel=7 strategy=1"
+    },
+    "zlib_params_07_with_hints_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=13 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=6 wbits=15 memLevel=8 strategy=0"
+    },
+    "zlib_params_07_with_hints_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=14 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_and_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=15 memLevel=7 strategy=0"
+    },
+    "zlib_params_07_with_hints_and_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=15 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_1": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_3": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=7 wbits=28 memLevel=6 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_4": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=5 wbits=28 memLevel=7 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_2": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    },
+    "zlib_params_07_with_cot_and_doc_5": {
+        "run_directory": "/home/jim/magpie/examples/zlib/necessary/",
+        "command": "bash run_fixed.sh level=4 wbits=28 memLevel=8 strategy=4"
+    }
+}

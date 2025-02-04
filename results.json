@@ -1,0 +1,206 @@
+{
+    "minisat_hack_params_07": {
+        "minisat_hack_params_07_simple_with_doc_1.params": 8.292968511581421,
+        "minisat_hack_params_07_simple_with_doc_3.params": 5.6882922649383545,
+        "minisat_hack_params_07_simple_with_doc_4.params": 4.1783692836761475,
+        "minisat_hack_params_07_simple_with_doc_2.params": 4.1762402057647705,
+        "minisat_hack_params_07_simple_with_doc_5.params": 5.682934522628784,
+        "minisat_hack_params_07_simple_with_doc_1.params_all": [
+            8.292968511581421
+        ],
+        "minisat_hack_params_07_simple_with_doc_3.params_all": [
+            5.6882922649383545
+        ],
+        "minisat_hack_params_07_simple_with_doc_4.params_all": [
+            4.1783692836761475
+        ],
+        "minisat_hack_params_07_simple_with_doc_2.params_all": [
+            4.1762402057647705
+        ],
+        "minisat_hack_params_07_simple_with_doc_5.params_all": [
+            5.682934522628784
+        ],
+        "minisat_hack_params_07_with_cot_1.params": 4.731151819229126,
+        "minisat_hack_params_07_with_cot_1.params_all": [
+            4.731151819229126
+        ],
+        "minisat_hack_params_07_with_cot_3.params": "All Failed",
+        "minisat_hack_params_07_with_cot_3.params_all": [
+            "Failed start"
+        ],
+        "minisat_hack_params_07_with_cot_4.params": 4.178469657897949,
+        "minisat_hack_params_07_with_cot_4.params_all": [
+            4.178469657897949
+        ],
+        "minisat_hack_params_07_with_cot_2.params": 5.284115552902222,
+        "minisat_hack_params_07_with_cot_2.params_all": [
+            5.284115552902222
+        ],
+        "minisat_hack_params_07_with_cot_5.params": "All Failed",
+        "minisat_hack_params_07_with_cot_5.params_all": [
+            "Failed start"
+        ],
+        "minisat_hack_params_07_simple_1.params": 2.7230801582336426,
+        "minisat_hack_params_07_simple_1.params_all": [
+            2.7230801582336426
+        ],
+        "minisat_hack_params_07_simple_3.params": 4.882334470748901,
+        "minisat_hack_params_07_simple_3.params_all": [
+            4.882334470748901
+        ],
+        "minisat_hack_params_07_simple_4.params": 6.037217617034912,
+        "minisat_hack_params_07_simple_4.params_all": [
+            6.037217617034912
+        ],
+        "minisat_hack_params_07_simple_5.params": 3.0270273685455322,
+        "minisat_hack_params_07_simple_5.params_all": [
+            3.0270273685455322
+        ],
+        "minisat_hack_params_07_with_hints_1.params": 2.6720776557922363,
+        "minisat_hack_params_07_with_hints_1.params_all": [
+            2.6720776557922363
+        ],
+        "minisat_hack_params_07_with_hints_3.params": 2.271247148513794,
+        "minisat_hack_params_07_with_hints_3.params_all": [
+            2.271247148513794
+        ],
+        "minisat_hack_params_07_with_hints_4.params": 2.426119804382324,
+        "minisat_hack_params_07_with_hints_4.params_all": [
+            2.426119804382324
+        ],
+        "minisat_hack_params_07_with_hints_2.params": 4.030380010604858,
+        "minisat_hack_params_07_with_hints_2.params_all": [
+            4.030380010604858
+        ],
+        "minisat_hack_params_07_with_hints_5.params": 2.723285675048828,
+        "minisat_hack_params_07_with_hints_5.params_all": [
+            2.723285675048828
+        ],
+        "minisat_hack_params_07_with_hints_and_doc_1.params": 2.272576332092285,
+        "minisat_hack_params_07_with_hints_and_doc_1.params_all": [
+            2.272576332092285
+        ],
+        "minisat_hack_params_07_with_hints_and_doc_3.params": 3.376373291015625,
+        "minisat_hack_params_07_with_hints_and_doc_3.params_all": [
+            3.376373291015625
+        ],
+        "minisat_hack_params_07_with_hints_and_doc_4.params": 5.334793329238892,
+        "minisat_hack_params_07_with_hints_and_doc_4.params_all": [
+            5.334793329238892
+        ],
+        "minisat_hack_params_07_with_hints_and_doc_2.params": 2.5261998176574707,
+        "minisat_hack_params_07_with_hints_and_doc_2.params_all": [
+            2.5261998176574707
+        ],
+        "minisat_hack_params_07_with_hints_and_doc_5.params": "All Failed",
+        "minisat_hack_params_07_with_hints_and_doc_5.params_all": [
+            "Failed start"
+        ],
+        "minisat_hack_params_07_with_cot_and_doc_1.params": 3.3743021488189697,
+        "minisat_hack_params_07_with_cot_and_doc_1.params_all": [
+            3.3743021488189697
+        ],
+        "minisat_hack_params_07_with_cot_and_doc_3.params": 2.2708840370178223,
+        "minisat_hack_params_07_with_cot_and_doc_3.params_all": [
+            2.2708840370178223
+        ],
+        "minisat_hack_params_07_with_cot_and_doc_4.params": "All Failed",
+        "minisat_hack_params_07_with_cot_and_doc_4.params_all": [
+            "Failed start"
+        ],
+        "minisat_hack_params_07_with_cot_and_doc_2.params": "All Failed",
+        "minisat_hack_params_07_with_cot_and_doc_2.params_all": [
+            "Failed start"
+        ],
+        "minisat_hack_params_07_with_cot_and_doc_5.params": "All Failed",
+        "minisat_hack_params_07_with_cot_and_doc_5.params_all": [
+            "Failed start"
+        ]
+    },
+    "lpg_params_12": {
+        "lpg_params__simple_with_doc_1.params": "All Failed",
+        "lpg_params__simple_with_doc_1.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_with_doc_3.params": "All Failed",
+        "lpg_params__simple_with_doc_3.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_with_doc_4.params": "All Failed",
+        "lpg_params__simple_with_doc_4.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_with_doc_2.params": "All Failed",
+        "lpg_params__simple_with_doc_2.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_with_doc_5.params": "All Failed",
+        "lpg_params__simple_with_doc_5.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_cot_1.params": "All Failed",
+        "lpg_params__with_cot_1.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_cot_3.params": "All Failed",
+        "lpg_params__with_cot_3.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_cot_4.params": "All Failed",
+        "lpg_params__with_cot_4.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_cot_2.params": "All Failed",
+        "lpg_params__with_cot_2.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_cot_5.params": 28.607858657836914,
+        "lpg_params__with_cot_5.params_all": [
+            28.607858657836914
+        ],
+        "lpg_params__simple_1.params": "All Failed",
+        "lpg_params__simple_1.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_3.params": "All Failed",
+        "lpg_params__simple_3.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_4.params": "All Failed",
+        "lpg_params__simple_4.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_2.params": "All Failed",
+        "lpg_params__simple_2.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__simple_5.params": "All Failed",
+        "lpg_params__simple_5.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_1.params": "All Failed",
+        "lpg_params__with_hints_1.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_3.params": "All Failed",
+        "lpg_params__with_hints_3.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_4.params": "All Failed",
+        "lpg_params__with_hints_4.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_2.params": "All Failed",
+        "lpg_params__with_hints_2.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_5.params": "All Failed",
+        "lpg_params__with_hints_5.params_all": [
+            "Failed timeout"
+        ],
+        "lpg_params__with_hints_and_doc_1.params": "All Failed",
+        "lpg_params__with_hints_and_doc_1.params_all": [
+            "Failed timeout"
+        ]
+    }
+}

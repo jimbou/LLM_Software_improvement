@@ -1,4 +1,4 @@
-luby := 'False'  
+luby := 0.0 
 restarts := 'Glucose21Restarts'  
 cleaning := 'LBD2'  
 rinc := 2.0  

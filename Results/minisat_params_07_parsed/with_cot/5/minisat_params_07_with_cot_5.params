@@ -1,4 +1,4 @@
-luby := 'False'
+luby := 0.0
 rnd-init := 'True'
 gc-frac := 0.3
 rinc := 2.5

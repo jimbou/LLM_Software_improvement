@@ -1,4 +1,4 @@
-luby := 'False'
+luby := 0.0
 restarts := 'MiniSATRestarts'
 rinc := 1.8
 var-decay := 0.9
