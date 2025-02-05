@@ -1,0 +1,92 @@
+{
+  "minisat_hack_params__simple_with_doc_1": {
+    "time": 3052
+  },
+  "minisat_hack_params__simple_with_doc_3": {
+    "time": 4099
+  },
+  "minisat_hack_params__simple_with_doc_4": {
+    "time": 3058
+  },
+  "minisat_hack_params__simple_with_doc_2": {
+    "time": 2794
+  },
+  "minisat_hack_params__simple_with_doc_5": {
+    "time": 3046
+  },
+  "minisat_hack_params__with_cot_1": {
+    "time": 3368
+  },
+  "minisat_hack_params__with_cot_3": {
+    "time": 2962
+  },
+  "minisat_hack_params__with_cot_4": {
+    "time": 2740
+  },
+  "minisat_hack_params__with_cot_2": {
+    "time": 2905
+  },
+  "minisat_hack_params__with_cot_5": {
+    "time": 3029
+  },
+  "minisat_hack_params__simple_1": {
+    "time": 2932
+  },
+  "minisat_hack_params__simple_3": {
+    "time": 3563
+  },
+  "minisat_hack_params__simple_4": {
+    "time": 3526
+  },
+  "minisat_hack_params__simple_2": {
+    "time": 4183
+  },
+  "minisat_hack_params__simple_5": {
+    "time": 2511
+  },
+  "minisat_hack_params__with_hints_1": {
+    "time": 2821
+  },
+  "minisat_hack_params__with_hints_3": {
+    "time": 2852
+  },
+  "minisat_hack_params__with_hints_4": {
+    "time": 2125
+  },
+  "minisat_hack_params__with_hints_2": {
+    "time": 2756
+  },
+  "minisat_hack_params__with_hints_5": {
+    "time": 2545
+  },
+  "minisat_hack_params__with_hints_and_doc_1": {
+    "time": 2733
+  },
+  "minisat_hack_params__with_hints_and_doc_3": {
+    "time": 2698
+  },
+  "minisat_hack_params__with_hints_and_doc_4": {
+    "time": 2521
+  },
+  "minisat_hack_params__with_hints_and_doc_2": {
+    "time": 2856
+  },
+  "minisat_hack_params__with_hints_and_doc_5": {
+    "time": 2524
+  },
+  "minisat_hack_params__with_cot_and_doc_1": {
+    "time": 2950
+  },
+  "minisat_hack_params__with_cot_and_doc_3": {
+    "time": 4043
+  },
+  "minisat_hack_params__with_cot_and_doc_4": {
+    "time": 2965
+  },
+  "minisat_hack_params__with_cot_and_doc_2": {
+    "time": 2916
+  },
+  "minisat_hack_params__with_cot_and_doc_5": {
+    "time": 2859
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "zlib_params__simple_with_doc_1": {
+    "time": 8164
+  },
+  "zlib_params__simple_with_doc_3": {
+    "time": 5507
+  },
+  "zlib_params__simple_with_doc_4": {
+    "time": 8141
+  },
+  "zlib_params__simple_with_doc_2": {
+    "time": 8151
+  },
+  "zlib_params__simple_with_doc_5": {
+    "time": 5069
+  },
+  "zlib_params__with_cot_1": {
+    "time": 8019
+  },
+  "zlib_params__with_cot_3": {
+    "time": 7997
+  },
+  "zlib_params__with_cot_4": {
+    "time": 7985
+  },
+  "zlib_params__with_cot_2": {
+    "time": 151
+  },
+  "zlib_params__with_cot_5": {
+    "time": 8020
+  },
+  "zlib_params__simple_1": {
+    "time": 11469
+  },
+  "zlib_params__simple_3": {
+    "time": 11507
+  },
+  "zlib_params__simple_4": {
+    "time": 11497
+  },
+  "zlib_params__simple_2": {
+    "time": 11465
+  },
+  "zlib_params__simple_5": {
+    "time": 8935
+  },
+  "zlib_params__with_hints_1": {
+    "time": 10889
+  },
+  "zlib_params__with_hints_3": {
+    "time": 7641
+  },
+  "zlib_params__with_hints_4": {
+    "time": 8146
+  },
+  "zlib_params__with_hints_2": {
+    "time": 8005
+  },
+  "zlib_params__with_hints_5": {
+    "time": 9272
+  },
+  "zlib_params__with_hints_and_doc_1": {
+    "time": 9018
+  },
+  "zlib_params__with_hints_and_doc_3": {
+    "time": 10300
+  },
+  "zlib_params__with_hints_and_doc_4": {
+    "time": 8295
+  },
+  "zlib_params__with_hints_and_doc_2": {
+    "time": 11395
+  },
+  "zlib_params__with_hints_and_doc_5": {
+    "time": 8234
+  },
+  "zlib_params__with_cot_and_doc_1": {
+    "time": 8349
+  },
+  "zlib_params__with_cot_and_doc_3": {
+    "time": 8398
+  },
+  "zlib_params__with_cot_and_doc_4": {
+    "time": 8110
+  },
+  "zlib_params__with_cot_and_doc_2": {
+    "time": 8127
+  },
+  "zlib_params__with_cot_and_doc_5": {
+    "time": 8123
+  }
+}

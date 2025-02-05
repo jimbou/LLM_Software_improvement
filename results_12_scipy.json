@@ -1,0 +1,92 @@
+{
+  "scipy_params__simple_with_doc_1": {
+    "time": 13930
+  },
+  "scipy_params__simple_with_doc_3": {
+    "time": 12514
+  },
+  "scipy_params__simple_with_doc_4": {
+    "time": 9181
+  },
+  "scipy_params__simple_with_doc_2": {
+    "time": 9293
+  },
+  "scipy_params__simple_with_doc_5": {
+    "time": 13419
+  },
+  "scipy_params__with_cot_1": {
+    "time": 12326
+  },
+  "scipy_params__with_cot_3": {
+    "time": 13378
+  },
+  "scipy_params__with_cot_4": {
+    "time": 13986
+  },
+  "scipy_params__with_cot_2": {
+    "time": 13580
+  },
+  "scipy_params__with_cot_5": {
+    "time": 13520
+  },
+  "scipy_params__simple_1": {
+    "time": 13621
+  },
+  "scipy_params__simple_3": {
+    "time": 12479
+  },
+  "scipy_params__simple_4": {
+    "time": 13882
+  },
+  "scipy_params__simple_2": {
+    "time": 12785
+  },
+  "scipy_params__simple_5": {
+    "time": 13473
+  },
+  "scipy_params__with_hints_1": {
+    "time": 13522
+  },
+  "scipy_params__with_hints_3": {
+    "time": 14140
+  },
+  "scipy_params__with_hints_4": {
+    "time": 13025
+  },
+  "scipy_params__with_hints_2": {
+    "time": 13278
+  },
+  "scipy_params__with_hints_5": {
+    "time": 13201
+  },
+  "scipy_params__with_hints_and_doc_1": {
+    "time": 8330
+  },
+  "scipy_params__with_hints_and_doc_3": {
+    "time": 6472
+  },
+  "scipy_params__with_hints_and_doc_4": {
+    "time": 6720
+  },
+  "scipy_params__with_hints_and_doc_2": {
+    "time": 5875
+  },
+  "scipy_params__with_hints_and_doc_5": {
+    "time": 9784
+  },
+  "scipy_params__with_cot_and_doc_1": {
+    "time": 14509
+  },
+  "scipy_params__with_cot_and_doc_3": {
+    "time": 8351
+  },
+  "scipy_params__with_cot_and_doc_4": {
+    "time": 8776
+  },
+  "scipy_params__with_cot_and_doc_2": {
+    "time": 14454
+  },
+  "scipy_params__with_cot_and_doc_5": {
+    "time": 9181
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "weka_params__simple_with_doc_1": {
+    "time": 2287
+  },
+  "weka_params__simple_with_doc_3": {
+    "time": 2376
+  },
+  "weka_params__simple_with_doc_4": {
+    "time": 2370
+  },
+  "weka_params__simple_with_doc_2": {
+    "time": 2199
+  },
+  "weka_params__simple_with_doc_5": {
+    "time": 2363
+  },
+  "weka_params__with_cot_1": {
+    "time": 357
+  },
+  "weka_params__with_cot_3": {
+    "time": 359
+  },
+  "weka_params__with_cot_4": {
+    "time": 359
+  },
+  "weka_params__with_cot_2": {
+    "time": 362
+  },
+  "weka_params__with_cot_5": {
+    "time": 1101
+  },
+  "weka_params__simple_1": {
+    "time": 2399
+  },
+  "weka_params__simple_3": {
+    "time": 2390
+  },
+  "weka_params__simple_4": {
+    "time": 2421
+  },
+  "weka_params__simple_2": {
+    "time": 2401
+  },
+  "weka_params__simple_5": {
+    "time": 2417
+  },
+  "weka_params__with_hints_1": {
+    "time": 2407
+  },
+  "weka_params__with_hints_3": {
+    "time": 2408
+  },
+  "weka_params__with_hints_4": {
+    "time": 2421
+  },
+  "weka_params__with_hints_2": {
+    "time": 2402
+  },
+  "weka_params__with_hints_5": {
+    "time": 2396
+  },
+  "weka_params__with_hints_and_doc_1": {
+    "time": 2425
+  },
+  "weka_params__with_hints_and_doc_3": {
+    "time": 2281
+  },
+  "weka_params__with_hints_and_doc_4": {
+    "time": 2349
+  },
+  "weka_params__with_hints_and_doc_2": {
+    "time": 2382
+  },
+  "weka_params__with_hints_and_doc_5": {
+    "time": 2411
+  },
+  "weka_params__with_cot_and_doc_1": {
+    "time": 2309
+  },
+  "weka_params__with_cot_and_doc_3": {
+    "time": 2275
+  },
+  "weka_params__with_cot_and_doc_4": {
+    "time": 2224
+  },
+  "weka_params__with_cot_and_doc_2": {
+    "time": 464
+  },
+  "weka_params__with_cot_and_doc_5": {
+    "time": 2276
+  }
+}

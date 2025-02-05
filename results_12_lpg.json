@@ -1,0 +1,92 @@
+{
+  "lpg_params__simple_with_doc_1": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_with_doc_3": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_with_doc_4": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_with_doc_2": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_with_doc_5": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_1": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_3": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_4": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_2": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_5": {
+    "time": 25988
+  },
+  "lpg_params__simple_1": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_3": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_4": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_2": {
+    "time": "timeout"
+  },
+  "lpg_params__simple_5": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_1": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_3": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_4": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_2": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_5": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_and_doc_1": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_and_doc_3": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_and_doc_4": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_and_doc_2": {
+    "time": "timeout"
+  },
+  "lpg_params__with_hints_and_doc_5": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_and_doc_1": {
+    "time": 14663
+  },
+  "lpg_params__with_cot_and_doc_3": {
+    "time": 12735
+  },
+  "lpg_params__with_cot_and_doc_4": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_and_doc_2": {
+    "time": "timeout"
+  },
+  "lpg_params__with_cot_and_doc_5": {
+    "time": "timeout"
+  }
+}

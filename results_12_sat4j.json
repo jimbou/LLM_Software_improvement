@@ -1,0 +1,92 @@
+{
+  "sat4j_params__simple_with_doc_1": {
+    "time": 6878
+  },
+  "sat4j_params__simple_with_doc_3": {
+    "time": 6909
+  },
+  "sat4j_params__simple_with_doc_4": {
+    "time": 6952
+  },
+  "sat4j_params__simple_with_doc_2": {
+    "time": 6918
+  },
+  "sat4j_params__simple_with_doc_5": {
+    "time": 6929
+  },
+  "sat4j_params__with_cot_1": {
+    "time": 6916
+  },
+  "sat4j_params__with_cot_3": {
+    "time": 6943
+  },
+  "sat4j_params__with_cot_4": {
+    "time": 6923
+  },
+  "sat4j_params__with_cot_2": {
+    "time": 6924
+  },
+  "sat4j_params__with_cot_5": {
+    "time": 6928
+  },
+  "sat4j_params__simple_1": {
+    "time": 6925
+  },
+  "sat4j_params__simple_3": {
+    "time": 6936
+  },
+  "sat4j_params__simple_4": {
+    "time": 6899
+  },
+  "sat4j_params__simple_2": {
+    "time": 6927
+  },
+  "sat4j_params__simple_5": {
+    "time": 6947
+  },
+  "sat4j_params__with_hints_1": {
+    "time": 6901
+  },
+  "sat4j_params__with_hints_3": {
+    "time": 6934
+  },
+  "sat4j_params__with_hints_4": {
+    "time": 6957
+  },
+  "sat4j_params__with_hints_2": {
+    "time": 6932
+  },
+  "sat4j_params__with_hints_5": {
+    "time": 6936
+  },
+  "sat4j_params__with_hints_and_doc_1": {
+    "time": 6929
+  },
+  "sat4j_params__with_hints_and_doc_3": {
+    "time": 6927
+  },
+  "sat4j_params__with_hints_and_doc_4": {
+    "time": 6954
+  },
+  "sat4j_params__with_hints_and_doc_2": {
+    "time": 6912
+  },
+  "sat4j_params__with_hints_and_doc_5": {
+    "time": 6909
+  },
+  "sat4j_params__with_cot_and_doc_1": {
+    "time": 6929
+  },
+  "sat4j_params__with_cot_and_doc_3": {
+    "time": 6905
+  },
+  "sat4j_params__with_cot_and_doc_4": {
+    "time": 6945
+  },
+  "sat4j_params__with_cot_and_doc_2": {
+    "time": 6911
+  },
+  "sat4j_params__with_cot_and_doc_5": {
+    "time": 6960
+  }
+}
